@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\bin\Debug\net7.0\Interface_IEnumerable.exe
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\bin\Debug\net7.0\Interface_IEnumerable.deps.json
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\bin\Debug\net7.0\Interface_IEnumerable.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\bin\Debug\net7.0\Interface_IEnumerable.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\bin\Debug\net7.0\Interface_IEnumerable.pdb
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\obj\Debug\net7.0\Interface_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\obj\Debug\net7.0\Interface_IEnumerable.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\obj\Debug\net7.0\Interface_IEnumerable.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\obj\Debug\net7.0\Interface_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\obj\Debug\net7.0\Interface_IEnumerable.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\obj\Debug\net7.0\refint\Interface_IEnumerable.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\obj\Debug\net7.0\Interface_IEnumerable.pdb
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\obj\Debug\net7.0\Interface_IEnumerable.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable\Interface_IEnumerable\obj\Debug\net7.0\ref\Interface_IEnumerable.dll

@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\bin\Debug\net7.0\Challenge_IEnumerable.exe
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\bin\Debug\net7.0\Challenge_IEnumerable.deps.json
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\bin\Debug\net7.0\Challenge_IEnumerable.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\bin\Debug\net7.0\Challenge_IEnumerable.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\bin\Debug\net7.0\Challenge_IEnumerable.pdb
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\obj\Debug\net7.0\Challenge_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\obj\Debug\net7.0\Challenge_IEnumerable.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\obj\Debug\net7.0\Challenge_IEnumerable.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\obj\Debug\net7.0\Challenge_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\obj\Debug\net7.0\Challenge_IEnumerable.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\obj\Debug\net7.0\refint\Challenge_IEnumerable.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\obj\Debug\net7.0\Challenge_IEnumerable.pdb
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\obj\Debug\net7.0\Challenge_IEnumerable.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Challenge_IEnumerable\Challenge_IEnumerable\obj\Debug\net7.0\ref\Challenge_IEnumerable.dll

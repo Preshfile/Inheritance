@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\bin\Debug\net7.0\Interfaces_Introduction.exe
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\bin\Debug\net7.0\Interfaces_Introduction.deps.json
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\bin\Debug\net7.0\Interfaces_Introduction.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\bin\Debug\net7.0\Interfaces_Introduction.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\bin\Debug\net7.0\Interfaces_Introduction.pdb
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\obj\Debug\net7.0\Interfaces_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\obj\Debug\net7.0\Interfaces_Introduction.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\obj\Debug\net7.0\Interfaces_Introduction.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\obj\Debug\net7.0\Interfaces_Introduction.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\obj\Debug\net7.0\Interfaces_Introduction.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\obj\Debug\net7.0\refint\Interfaces_Introduction.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\obj\Debug\net7.0\Interfaces_Introduction.pdb
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\obj\Debug\net7.0\Interfaces_Introduction.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interfaces_Introduction\Interfaces_Introduction\obj\Debug\net7.0\ref\Interfaces_Introduction.dll

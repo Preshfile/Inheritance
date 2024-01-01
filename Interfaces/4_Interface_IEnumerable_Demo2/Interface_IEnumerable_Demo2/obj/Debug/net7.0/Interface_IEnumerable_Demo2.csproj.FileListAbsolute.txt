@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\bin\Debug\net7.0\Interface_IEnumerable_Demo2.exe
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\bin\Debug\net7.0\Interface_IEnumerable_Demo2.deps.json
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\bin\Debug\net7.0\Interface_IEnumerable_Demo2.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\bin\Debug\net7.0\Interface_IEnumerable_Demo2.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\bin\Debug\net7.0\Interface_IEnumerable_Demo2.pdb
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\obj\Debug\net7.0\Interface_IEnumerable_Demo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\obj\Debug\net7.0\Interface_IEnumerable_Demo2.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\obj\Debug\net7.0\Interface_IEnumerable_Demo2.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\obj\Debug\net7.0\Interface_IEnumerable_Demo2.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\obj\Debug\net7.0\Interface_IEnumerable_Demo2.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\obj\Debug\net7.0\refint\Interface_IEnumerable_Demo2.dll
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\obj\Debug\net7.0\Interface_IEnumerable_Demo2.pdb
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\obj\Debug\net7.0\Interface_IEnumerable_Demo2.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Interfaces\Interface_IEnumerable_Demo2\Interface_IEnumerable_Demo2\obj\Debug\net7.0\ref\Interface_IEnumerable_Demo2.dll
