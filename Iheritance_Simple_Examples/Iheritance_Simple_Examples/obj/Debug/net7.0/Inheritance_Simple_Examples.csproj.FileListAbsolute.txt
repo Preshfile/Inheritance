@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\bin\Debug\net7.0\Inheritance_Simple_Examples.exe
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\bin\Debug\net7.0\Inheritance_Simple_Examples.deps.json
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\bin\Debug\net7.0\Inheritance_Simple_Examples.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\bin\Debug\net7.0\Inheritance_Simple_Examples.dll
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\bin\Debug\net7.0\Inheritance_Simple_Examples.pdb
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\obj\Debug\net7.0\Inheritance_Simple_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\obj\Debug\net7.0\Inheritance_Simple_Examples.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\obj\Debug\net7.0\Inheritance_Simple_Examples.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\obj\Debug\net7.0\Inheritance_Simple_Examples.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\obj\Debug\net7.0\Inheritance_Simple_Examples.dll
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\obj\Debug\net7.0\refint\Inheritance_Simple_Examples.dll
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\obj\Debug\net7.0\Inheritance_Simple_Examples.pdb
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\obj\Debug\net7.0\Inheritance_Simple_Examples.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Inheritance\Iheritance_Simple_Examples\Iheritance_Simple_Examples\obj\Debug\net7.0\ref\Inheritance_Simple_Examples.dll
